@@ -1,3 +1,7 @@
+# Description
+
+A website which people can order food 😀 [Click](https://food-order-app2608.netlify.com) to preview
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
