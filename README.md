@@ -1,6 +1,6 @@
 # Description
 
-A website which people can order food 😀 [Click](https://food-order-app2608.netlify.com) to preview
+A website which people can order food 😀 [Click](https://food-order-app2608.netlify.app) to preview
 
 # Getting Started with Create React App
 
